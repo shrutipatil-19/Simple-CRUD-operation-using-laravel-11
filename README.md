@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Simple-CRUD-operation-using-laravel-11
+This repository contains a basic CRUD (Create, Read, Update, Delete) application built with Laravel 11. It demonstrates how to manage database records efficiently using Laravel's powerful features. Simplified routes and controllers for CRUD operations. Structure for creating and modifying database tables.
+>>>>>>> 03b45b9038034365b897be01c00e9e2760e2c1e0
